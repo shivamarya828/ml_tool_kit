@@ -1,2 +1,2 @@
-# ml_tool_kit
+# Basic ML Tools
 One stop place for standard ML algorithms used 
